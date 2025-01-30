@@ -1,0 +1,6 @@
+Pandas==2.0.3
+NumPy==1.24.3
+Matplotlib==3.7.2
+Streamlit==1.37.0
+Seaborn==0.13.2
+Babel==2.11.0
