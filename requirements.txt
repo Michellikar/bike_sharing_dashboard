@@ -4,3 +4,4 @@ Matplotlib
 Streamlit
 Seaborn
 Babel
+plotly
